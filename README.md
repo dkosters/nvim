@@ -1,6 +1,7 @@
 # My Current nvim Installation
 
 ## Requirements + Versions
+There is a bash install script ```install_nvim.sh```, you can run it with: ```sh ~/install_nvim.sh```. This, however, does not have proper version control.
 
 - Ubuntu 
 ```
