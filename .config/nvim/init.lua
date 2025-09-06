@@ -1,1 +1,1 @@
--- nvim init file
+require("config.lazy")
