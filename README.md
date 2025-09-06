@@ -30,5 +30,13 @@ Add executable to path (i.e. add the following line to ```~/.bashrc```):
 ```
 export PATH="$PATH:/opt/nvim-linux-x86_64/bin"
 ```
+- luarocks
+``` 
+/usr/bin/luarocks 3.8.0
+LuaRocks main command-line interface
+```
 
-
+Install:
+```
+sudo apt install luarocks
+```
