@@ -55,4 +55,12 @@ nvm use 16
 ```
 npm install -g tree-sitter-cli
 ```
+- ripgrep
+```
+sudo apt-get install ripgrep
+```
+- nvim node.js host
+```
+npm install -g neovim
+```
 
