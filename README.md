@@ -53,6 +53,6 @@ nvm use 16
 
 - tree-sitter-cli
 ```
-npm install tree-sitter-cli
+npm install -g tree-sitter-cli
 ```
 
