@@ -41,3 +41,18 @@ Install:
 sudo apt install luarocks
 ```
 
+- npm and node 
+
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+```
+```
+nvm install 16
+nvm use 16
+```
+
+- tree-sitter-cli
+```
+npm install tree-sitter-cli
+```
+
